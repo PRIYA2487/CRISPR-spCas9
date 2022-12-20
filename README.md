@@ -1,2 +1,7 @@
 # CRISPR-spCas9
-Accurate prediction of CRISPR/spCAs9 Off target effects after successful DSBs
+**Accurate prediction of CRISPR/spCas9 Off target effects after successful DSBs**
+
+Off late CRISPR technology for gene editing has gained immense popularity due to its ability of proficient creation of DSBs at the target nuclease and low cost of implementation. This technology has its widespread applications in Agriculture, Medicine and Bio Energy. CRISPR/CAS9 is a simple two component system used for efficient gene targeting and editing. The first component is a Cas9 protein with ability to generate double stranded breaks (DSBs) at the targeted DNA and a second component Single Guide RNA (sgRNA) which is complimentary to the target site and efficiently guides the CRISPR/Cas9 complex to its intended target genome. With such a proficiency there still exists a dearth in its effective cleaving at the target sites by sometimes causing DSBs at a site other than the intended target which we call Off Target sites. These off target DSBs can be a serious complication when they give rise to undesired phenotypic expression or tumorous growth due to disruption of normal genome activities. Thus finding the possible off targets before experimental procedure saves the precious time, effort and energy resources required for a project. This study aims at predicting possible OFF target effects of CRISPR technology using the Cas9 protien of a bacteriaStreptococcus Pyogenes called spCas9 by leveraging the best Deep learning models.
+
+
+
